@@ -25,9 +25,6 @@ body {
   height: calc(100vh + 60px);
   z-index: -1;
   filter: blur(0px);
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .loading-text {
